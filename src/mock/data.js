@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Aspiring Data Scientist currently pursuing MSc in Data Science at the University of Bristol with proven expertise in systems engineering and development with over two years of industry experience.',
+  paragraphOne: 'Aspiring Data Scientist and software developer currently pursuing MSc in Data Science at the University of Bristol with proven expertise in systems engineering and development with over two years of industry experience.',
   paragraphTwo: 'Skills: Python, R, AWS, Pytorch, Linux, GIT, PHP, MySQL, Tableau, NLP, Java',
   paragraphThree: 'Actively looking for data science and software engineering roles.',
   resume: 'https://drive.google.com/file/d/1El5dvL9IhyYivnP4Ki_8WpZSIdfuF2nz/view?usp=sharing', // if no resume, the button will not show up
